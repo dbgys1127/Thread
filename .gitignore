@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+KYHThreadWash/.vs/
+KYHThreadWash/Bin/
+KYHThreadWash/Intermediate/
+KYHThreadWash/KYHThreadWash/x64/
